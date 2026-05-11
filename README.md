@@ -1,4 +1,4 @@
-# 💸 Expense Tracker — Marketing Mojito Internship Assignment
+# 💸 Expense Tracker
 
 A personal Expense Tracker built with React and Vite that lets users log, categorise, and manage their daily expenses — with a live currency conversion feature powered by a public API.
 
